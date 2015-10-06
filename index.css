@@ -1,0 +1,45 @@
+#autocomplete{
+  border: 1px solid green;
+  padding: 15px;
+  width: 200px;
+}
+
+#autocomplete ul{
+  list-style: none;
+}
+
+#autocomplete ul{
+  margin: 0px;
+  padding: 0px;
+}
+
+#autocomplete li:hover{
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+#weather{
+  border: 1px solid red;
+  width: 600px;
+  padding: 15px;
+}
+
+#tabs{
+  border: 1px solid black;
+}
+
+.head li{
+  float:left;
+  padding: 10px;
+}
+
+.head{
+  list-style: none;
+}
+
+.group:after{
+  content: "";
+  display: block;
+  clear: both;
+}
